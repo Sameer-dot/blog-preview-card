@@ -16,8 +16,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### 🔗Links
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/order-summary-component-31380D6L5Z)
-- Live Site URL: [live site URL](https://charming-melomakarona-4a9b78.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-tailwind-css-Ox9bi5362V)
+- Live Site URL: [live site URL](https://main--verdant-puppy-a5644e.netlify.app/)
 
 ### ⚙Built with
 
